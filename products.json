@@ -1,0 +1,104 @@
+{
+	"users":[
+	{
+		"name":"Bananas",
+		"photo_url":"https://www.cleanpng.com/png-large-bananas-png-clipart-60512/",
+		"price": 10
+	},
+	{
+		"name":"Cabbage",
+		"photo_url":"https://www.cleanpng.com/png-cabbage-clipart-picture-19046/",
+		"price": 30
+	},
+	{
+		"name":"Oranges",
+		"photo_url":"https://www.cleanpng.com/png-orange-clipart-picture-19022/",
+		"price": 10
+	},
+	{
+		"name":"Watermelon",
+		"photo_url":"https://www.cleanpng.com/png-large-painted-watermelon-png-clipart-17563/",
+		"price": 30
+	},
+	{
+		"name":"Grapes",
+		"photo_url":"https://www.cleanpng.com/png-large-grapes-png-clipart-12787/",
+		"price": 20
+	},
+	{
+		"name":"Pineapple",
+		"photo_url":"https://www.cleanpng.com/png-pineapple-png-vector-clipart-image-20089/",
+		"price": 30
+	},
+	{
+		"name":"Capsicum",
+		"photo_url":"https://www.cleanpng.com/png-red-pepper-png-clipart-image-15526/",
+		"price": 30
+	},
+	{
+		"name":"Apples",
+		"photo_url":"https://www.cleanpng.com/png-large-red-apples-png-clipart-57092/",
+		"price": 30
+	},
+	{
+		"name":"StrawBerries",
+		"photo_url":"https://www.cleanpng.com/png-strawberry-png-images-68312/",
+		"price": 30
+	},
+	{
+		"name":"Garlic",
+		"photo_url":"https://www.cleanpng.com/png-garlic-clipart-png-picture-12827/",
+		"price": 30
+	},
+	{
+		"name":"Beetroot",
+		"photo_url":"https://www.cleanpng.com/png-beet-png-9010/",
+		"price": 30
+	},
+	{
+		"name":"Mangoes",
+		"photo_url":"https://www.cleanpng.com/png-mango-png-clip-art-image-22817/",
+		"price": 30
+	},
+	{
+		"name":"Tomatoes",
+		"photo_url":"https://www.cleanpng.com/png-tomato-png-image-63152/",
+		"price": 30
+	},
+	{
+		"name":"Lemons",
+		"photo_url":"https://www.cleanpng.com/png-lemon-transparent-68159/",
+		"price": 30
+	},
+	{
+		"name":"Avocado",
+		"photo_url":"https://www.cleanpng.com/png-avocado-clip-art-avocato-3020616/",
+		"price": 30
+	},
+	{
+		"name":"Celeriac",
+		"photo_url":"https://www.cleanpng.com/png-celeriac-leaf-celery-organic-food-vegetable-health-503976/",
+		"price": 30
+	},
+	{
+		"name":"Pawpaw",
+		"photo_url":"https://www.cleanpng.com/png-juice-milk-bubble-tea-fruit-food-papaya-fruit-243356/",
+		"price": 30
+	},
+	{
+		"name":"Carrots",
+		"photo_url":"https://www.cleanpng.com/png-carrot-png-37314/",
+		"price": 30
+	},
+	{
+		"name":"Onions",
+		"photo_url":"https://www.cleanpng.com/png-raw-foodism-organic-food-shallot-red-onion-vegetab-709888/",
+		"price": 30
+	},
+	{
+		"name":"Potatoes",
+		"photo_url":"https://www.cleanpng.com/png-potato-png-images-pictures-download-62803/",
+		"price": 30
+	},
+  ]
+ }
